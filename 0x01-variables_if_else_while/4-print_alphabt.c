@@ -19,4 +19,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
- BIN +16.3 KB 
