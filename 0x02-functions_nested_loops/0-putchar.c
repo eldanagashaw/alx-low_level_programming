@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
- * is written by Yohannes Alelign
+ * is written by Eldana Wubiye
  * Return: 0
 */
 
