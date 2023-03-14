@@ -1,1 +1,1 @@
-tatic libraries
+Static libraries
